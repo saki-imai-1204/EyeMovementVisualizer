@@ -12,6 +12,7 @@
 This project is created with
 - PyQt5
 - tkinter
+- pandas
 
 
 ## Features
