@@ -1,5 +1,4 @@
-# Project Name
-> Will add description later
+# Eye Movement Visualizer 
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
