@@ -88,7 +88,7 @@ Folder setup: make sure to prepare a "Data" folder in a parent directory to keep
 - Code for running the video player
 ### draw_box.py
 - Code for drawing a rectangle over tkinker popup window
-### emip_toolkit.py
+### emip_toolkit.py -- taken from [EMTK](https://github.com/nalmadi/EMIP-Toolkit)
 - Collection of functions that help with the analysis of eyetracking data
   - vscode_find_aoi()
     - Find Area of Interest in a given vscode screenshot image and store the aoi attributes in a Pandas Dataframe
