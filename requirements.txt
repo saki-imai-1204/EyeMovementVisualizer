@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+PyQt5
+Pillow
+pytesseract
+FuzzyWuzzy
+QtRangeSlider
+opencv
